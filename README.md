@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Priyanshu 👋
 
-<!--
-**Priyanshu-Katre/Priyanshu-Katre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Learning Java & DSA  
+🚀 Interested in Software Development  
+📚 Currently exploring Git & GitHub  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- DSA
+- Python
+- Git & GitHub
+- DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goal
+Improve problem solving and development skills.
