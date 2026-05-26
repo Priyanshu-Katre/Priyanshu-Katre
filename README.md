@@ -7,8 +7,9 @@
 
 ## Skills
 - Java
-- DSA
+- DSA(IN JAVA)
 - Python
+- MYSQL
 - Git & GitHub
 - DBMS
 
