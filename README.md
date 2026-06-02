@@ -12,6 +12,7 @@
 - MYSQL
 - Git & GitHub
 - DBMS
+- Web Devlopment (BAICS)
 
 ## Current Goal
 Improve problem solving and development skills.
