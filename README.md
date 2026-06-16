@@ -12,7 +12,7 @@
 - MYSQL
 - Git & GitHub
 - DBMS
-- Web Devlopment (BAICS)
+- Web Devlopment (BASICS)
 
 ## Current Goal
 Improve problem solving and development skills.
