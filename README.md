@@ -20,7 +20,14 @@ Improve problem solving and development skills.
 
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Katre&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-count_private=true
-include_all_commits=true
+# Hi 👋, I'm Priyanshu Katre
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Katre&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Katre&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Katre&layout=compact&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Katre&theme=tokyo-night)
