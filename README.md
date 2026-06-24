@@ -19,8 +19,6 @@ Improve problem solving and development skills.
 
 
 
-## 📊 GitHub Analytics
-# Hi 👋, I'm Priyanshu Katre
 
 ## 📊 GitHub Analytics
 
