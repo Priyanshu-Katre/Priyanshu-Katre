@@ -126,14 +126,14 @@ class PriyanshuKatre {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1700&pause=900&color=00FF41&center=true&width=950&lines=%24+logout;Saving+Session...;Thanks+for+Visiting+My+GitHub!;See+You+Again,+Developer!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1800&pause=1000&color=00F7FF&center=true&width=1000&lines=✨+THANK+YOU+FOR+VISITING!;Hope+You+Enjoyed+My+GitHub+Journey!;Let's+Connect+%26+Build+Amazing+Projects!;Keep+Learning...+Keep+Building...;See+You+Again!+👋💙"/>
 
 <br>
 
-<img width="280" src="https://media.tenor.com/LvLaG5hPCncAAAAd/computer-terminal.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer&text=Happy+Coding!+🚀&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=Visitors&style=for-the-badge&color=00FF41"/>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=PROFILE+VISITORS&style=for-the-badge&color=0e75b6"/>
 
 </div>
