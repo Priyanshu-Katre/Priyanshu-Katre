@@ -126,14 +126,16 @@ class PriyanshuKatre {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1800&pause=1000&color=00F7FF&center=true&width=1000&lines=✨+THANK+YOU+FOR+VISITING!;Hope+You+Enjoyed+My+GitHub+Journey!;Let's+Connect+%26+Build+Amazing+Projects!;Keep+Learning...+Keep+Building...;See+You+Again!+👋💙"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&pause=900&color=00FF99&center=true&width=1000&lines=SYSTEM+STATUS:+SUCCESS+✅;Portfolio+Viewed...;Projects+Loaded...;Thanks+for+Stopping+By!;Come+Back+Soon!+🚀"/>
 
-<br>
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✔ Java Skills Loaded
+✔ DSA Progress Updated
+✔ Projects Explored
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer&text=Happy+Coding!+🚀&fontSize=35&fontColor=ffffff&animation=twinkling"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=PROFILE+VISITORS&style=for-the-badge&color=0e75b6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF99,100:0F2027&height=90&section=footer&text=Until+Next+Time!&fontColor=ffffff&fontSize=28"/>
 
 </div>
