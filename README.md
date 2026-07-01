@@ -1,6 +1,8 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Priyanshu Katre
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1700&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=👋+Hello+Visitor...;I'm+Priyanshu+Katre;Loading+Java+Projects...;Loading+DSA+Skills...;Welcome+to+My+GitHub!+💙" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!+🚀;Java+Developer+☕;DSA+Problem+Solver+💡;Learning+Spring+Boot+🌱;Future+Software+Engineer+🚀;Always+Learning+Something+New+⭐" />
 
