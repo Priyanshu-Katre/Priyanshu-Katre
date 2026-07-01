@@ -1,52 +1,74 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1700&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=👋+Hello+Visitor...;I'm+Priyanshu+Katre;Loading+Java+Projects...;Loading+DSA+Skills...;Welcome+to+My+GitHub!+💙" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Priyanshu%20Katre&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20DSA%20Learner%20%7C%20Future%20Software%20Engineer&descAlignY=60"/>
 
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!+🚀;Java+Developer+☕;DSA+Problem+Solver+💡;Learning+Spring+Boot+🌱;Future+Software+Engineer+🚀;Always+Learning+Something+New+⭐" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=1800&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hello+Visitor!;Initializing+Developer+Profile...;Hey!+I'm+Priyanshu+Katre;Welcome+to+My+GitHub!;Java+Developer+☕;DSA+Enthusiast+🚀;Let's+Build+Something+Awesome!+💙"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 Computer Science Engineering Student
-
-☕ Passionate about Java Development
-
-📚 Currently learning Data Structures & Algorithms
-
-🌱 Exploring Spring Boot & Backend Development
-
-💡 Interested in Software Development and Open Source
-
-🚀 Goal: Become a Full-Stack Java Developer
-
----
-
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,vscode,idea,html,css,js&perline=6"/>
+<img width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</p>
+
+```java
+class PriyanshuKatre {
+
+    String role = "Java Developer";
+
+    String education = "Computer Science Engineering";
+
+    String currentlyLearning = "Spring Boot";
+
+    String focus = "Data Structures & Algorithms";
+
+    String goal = "Software Engineer";
+
+}
+```
+
+- ☕ Passionate about Java Development
+- 🚀 Solving DSA every day
+- 🌱 Exploring Spring Boot
+- 💻 Building Projects
+- 🔥 Hard work + Consistency = Success
+
+---
+
+# 🚀 Current Focus
+
+```text
+☕ Mastering Java          █████████░░ 90%
+
+📚 DSA                    ████████░░░ 80%
+
+🌱 Spring Boot            ██████░░░░░ 60%
+
+💻 Projects               ███████░░░░ 70%
+```
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </p>
 
 ---
 
-## 📈 Current Focus
-
-- 🔥 Solving DSA problems daily
-- ☕ Mastering Core Java
-- 🌱 Learning Spring Boot
-- 💻 Building Java Projects
-- 🚀 Improving Development Skills
-
----
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -64,29 +86,29 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Katre&theme=tokyo-night&hide_border=true"/>
-
----
-
-
-
----
-## 🌐 Connect with Me
+# 📈 Contribution Graph
 
 <p align="center">
 
-<a href="https://github.com/Priyanshu-Katre" target="_blank">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Katre&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Priyanshu-Katre">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/priyanshu-katre/" target="_blank">
+<a href="https://www.linkedin.com/in/priyanshu-katre/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Replace with your email -->
-<a href="katrepriyanshu9@gmail.com">
+<a href="mailto:katrepriyanshu9@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -94,16 +116,24 @@
 
 ---
 
-## 💬 Developer Quote
+# 💬 Favourite Quote
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> **"First, solve the problem. Then, write the code."**
+>
+> — John Johnson
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2200&pause=900&color=00F7FF&center=true&width=900&lines=⭐+Thank+You+for+Visiting!;Hope+You+Liked+My+Profile!;Let's+Connect+and+Build+Amazing+Things!;Happy+Coding!+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=Profile%20Views&color=0e75b6&style=flat"/>
+<br>
+
+<img width="220" src="https://media.tenor.com/YUzRkMOL-3EAAAAi/thumbs-up-good-job.gif"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
