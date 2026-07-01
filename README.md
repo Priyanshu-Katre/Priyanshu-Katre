@@ -26,7 +26,6 @@ Improve problem solving and development skills.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Katre&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Katre&layout=compact&theme=tokyonight&hide=html,css&langs_count=8)
 
 ## 🛠️ Languages & Tools
 
@@ -34,5 +33,7 @@ Improve problem solving and development skills.
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Katre&theme=tokyo-night)
