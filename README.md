@@ -126,11 +126,11 @@ class PriyanshuKatre {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2200&pause=900&color=00F7FF&center=true&width=900&lines=⭐+Thank+You+for+Visiting!;Hope+You+Liked+My+Profile!;Let's+Connect+and+Build+Amazing+Things!;Happy+Coding!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=1800&pause=900&color=00F7FF&center=true&width=950&lines=✨+Thank+You+for+Visiting!;Hope+You+Enjoyed+My+GitHub+Profile!;Let's+Connect+%26+Build+Amazing+Projects!;Keep+Learning...+Keep+Coding...+🚀;See+You+Again!+👋"/>
 
-<br>
+<br><br>
 
-<img width="220" src="https://media.tenor.com/YUzRkMOL-3EAAAAi/thumbs-up-good-job.gif"/>
+<img width="280" src="https://media.tenor.com/2roX3uxz_68AAAAC/coding.gif"/>
 
 <br><br>
 
