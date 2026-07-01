@@ -126,16 +126,14 @@ class PriyanshuKatre {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&pause=900&color=00FF99&center=true&width=1000&lines=SYSTEM+STATUS:+SUCCESS+✅;Portfolio+Viewed...;Projects+Loaded...;Thanks+for+Stopping+By!;Come+Back+Soon!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=1800&pause=1000&color=00F7FF&center=true&width=900&lines=✨+Thanks+for+Visiting!;Hope+You+Enjoyed+My+Profile!;Let's+Connect+and+Build+Together!;See+You+Again!+🚀"/>
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✔ Java Skills Loaded
-✔ DSA Progress Updated
-✔ Projects Explored
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF99,100:0F2027&height=90&section=footer&text=Until+Next+Time!&fontColor=ffffff&fontSize=28"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer&text=Happy%20Coding!%20🚀&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 
 </div>
