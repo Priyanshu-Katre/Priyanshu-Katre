@@ -126,14 +126,14 @@ class PriyanshuKatre {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=2000&pause=1000&color=38BDF8&center=true&width=1000&lines=💙+Thanks+for+Stopping+By!;Hope+You+Enjoyed+My+GitHub+Journey!;Feel+Free+to+Connect+on+LinkedIn!;Happy+Coding!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1700&pause=900&color=00FF41&center=true&width=950&lines=%24+logout;Saving+Session...;Thanks+for+Visiting+My+GitHub!;See+You+Again,+Developer!+🚀"/>
 
 <br>
 
-<img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="280"/>
+<img width="280" src="https://media.tenor.com/LvLaG5hPCncAAAAd/computer-terminal.gif"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=Visitors&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=Visitors&style=for-the-badge&color=00FF41"/>
 
 </div>
