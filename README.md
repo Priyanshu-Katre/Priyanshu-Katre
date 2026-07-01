@@ -26,6 +26,8 @@ Improve problem solving and development skills.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Katre&layout=compact&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Katre&layout=compact&theme=tokyonight&hide=html,css&langs_count=8)
+
 ## 🛠️ Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
