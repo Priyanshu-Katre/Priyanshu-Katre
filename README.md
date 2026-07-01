@@ -126,14 +126,14 @@ class PriyanshuKatre {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2200&pause=1000&color=00F7FF&center=true&width=900&lines=⭐+Thank+You+for+Visiting!;Hope+You+Liked+My+Profile!;Let's+Connect+and+Build+Amazing+Things!;See+You+Again!+👋"/>
-
-<br>
-
-<img src="https://media.tenor.com/8hCJQm4KqjYAAAAC/thank-you.gif" width="250"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=1800&pause=1000&color=00F7FF&center=true&width=900&lines=✨+Thanks+for+Visiting!;Hope+You+Enjoyed+My+Profile!;Let's+Connect+and+Build+Together!;See+You+Again!+🚀"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=Visitors&style=for-the-badge&color=blue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer&text=Happy%20Coding!%20🚀&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 
 </div>
