@@ -1,141 +1,139 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,25:203A43,50:2C5364,75:3A7BD5,100:00F7FF&text=PRIYANSHU%20KATRE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20•%20DSA%20Learner&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Priyanshu%20Katre&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20DSA%20Learner%20%7C%20Future%20Software%20Engineer&descAlignY=60"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=1800&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hello+Visitor!;Initializing+Developer+Profile...;Hey!+I'm+Priyanshu+Katre;Welcome+to+My+GitHub!;Java+Developer+☕;DSA+Enthusiast+🚀;Let's+Build+Something+Awesome!+💙"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B+Welcome+to+my+GitHub!;Java+Backend+Developer;Building+Scalable+Applications;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+Something+New+%F0%9F%9A%80"/>
+</div>
 
-
+---
 
 # 👨‍💻 About Me
 
+<p align="center">
+
+<img width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</p>
+
 ```java
-public class PriyanshuKatre {
+class PriyanshuKatre {
 
-    String role = "Java Backend Developer";
+    String role = "Java Developer";
 
-    String degree = "B.Tech Computer Science Engineering";
+    String education = "Computer Science Engineering";
 
-    String college = "G.H. Raisoni College of Engineering";
+    String currentlyLearning = "Spring Boot";
 
-    String backend = "Spring Boot";
+    String focus = "Data Structures & Algorithms";
 
-    String databases = "MySQL | MongoDB";
-
-    String learning = "Spring Boot + DSA";
-
-    String goal = "Building scalable backend systems and becoming a Software Engineer";
-
-    void dailyRoutine(){
-
-        solveDSA();
-
-        buildProjects();
-
-        learnSomethingNew();
-
-        repeat();
-    }
+    String goal = "Software Engineer";
 
 }
+```
 
-## 💡 Professional Summary
+- ☕ Passionate about Java Development
+- 🚀 Solving DSA every day
+- 🌱 Exploring Spring Boot
+- 💻 Building Projects
+- 🔥 Hard work + Consistency = Success
 
-I am a **Computer Science Engineering** student passionate about **Java Backend Development**, **Data Structures & Algorithms**, and **Spring Boot**.
+---
 
-I enjoy building scalable applications, solving real-world problems through code, and continuously improving my software engineering skills.
+# 🚀 Current Focus
 
-Currently, I am focusing on:
+```text
+☕ Mastering Java          █████████░░ 90%
 
-- ☕ Java Backend Development
-- 🌱 Spring Boot
-- 📚 Data Structures & Algorithms
-- 💻 Full Stack Project Development
-- 🤖 AI-powered Enterprise Applications
+📚 DSA                    ████████░░░ 80%
+
+🌱 Spring Boot            ██████░░░░░ 60%
+
+💻 Projects               ███████░░░░ 70%
+```
+
+---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+<p align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
+<br><br>
 
-</p>
-
----
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-</p>
-
-- Spring Boot
-- REST API
-- JWT Authentication
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🤖 AI
+# 📊 GitHub Analytics
 
-- Agentic AI
+<p align="center">
 
-- LangChain
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Katre&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-- LLM Integration
-
----
-
-## 🛠 Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Katre&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-Additional Tools
+<p align="center">
 
-- PyCharm
+<img src="https://streak-stats.demolab.com?user=Priyanshu-Katre&theme=tokyonight&hide_border=true"/>
 
-- Anaconda
+</p>
 
-- MySQL Workbench
+---
 
-# ⚡ Developer Dashboard
+# 📈 Contribution Graph
 
-```text
+<p align="center">
 
-██████████████████████████████████████
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Katre&theme=tokyo-night&hide_border=true"/>
 
-JAVA                    ███████████████████░
+</p>
 
-SPRING BOOT             █████████████░░░░░░
+---
 
-DATA STRUCTURES         ███████████████░░░░
+# 🌐 Connect With Me
 
-BACKEND DEVELOPMENT     ███████████████░░░░
+<p align="center">
 
-SYSTEM DESIGN           ██████░░░░░░░░░░░░░
+<a href="https://github.com/Priyanshu-Katre">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-OPEN SOURCE             ████░░░░░░░░░░░░░░░
+<a href="https://www.linkedin.com/in/priyanshu-katre/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-██████████████████████████████████████
+<a href="mailto:katrepriyanshu9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-```
+</p>
+
+---
+
+# 💬 Favourite Quote
+
+> **"First, solve the problem. Then, write the code."**
+>
+> — John Johnson
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=1800&pause=1000&color=00F7FF&center=true&width=900&lines=✨+Thanks+for+Visiting!;Hope+You+Enjoyed+My+Profile!;Let's+Connect+and+Build+Together!;See+You+Again!+🚀"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer&text=Happy%20Coding!%20🚀&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Katre&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+
 </div>
-```
